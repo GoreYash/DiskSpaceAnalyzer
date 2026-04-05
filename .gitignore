@@ -1,0 +1,22 @@
+# --- Python Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- Compiled Python Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Settings (VS Code, PyCharm) ---
+.vscode/
+.idea/
+
+# --- Build / Distribution ---
+build/
+dist/
+*.spec
